@@ -25,24 +25,13 @@ return {
   },
   {
     "rmehri01/onenord.nvim",
-    opts = {
-      fade_nc = true,
-      disable = {
-        background = true,
-      },
-    },
+    opts = {},
   },
   {
     "navarasu/onedark.nvim",
     opts = {
       style = "darker",
-      transparent = true,
-    },
-  },
-  {
-    "rebelot/kanagawa.nvim",
-    opts = {
-      transparent = true,
+      transparent = false,
     },
   },
 }
