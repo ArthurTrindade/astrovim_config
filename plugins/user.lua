@@ -1,4 +1,4 @@
--- TODO: TEST
+-- TODO: TES
 
 return {
   -- You can also add new plugins here as well:
