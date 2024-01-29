@@ -23,10 +23,10 @@ return {
     -- quick save
     -- ["<C-s>"] = { ":w!<cr>", desc = "Save File" },  -- change description but the same command
 
-    ["<C-\\>"] = { "<cmd>ToggleTerm<cr>" },
+    ["<C-4>"] = { "<cmd>ToggleTerm<cr>" },
   },
   t = {
-    ["<C-\\>"] = { "<cmd>ToggleTerm<cr>" },
+    ["<C-4>"] = { "<cmd>ToggleTerm<cr>" },
     -- setting a mapping to false will disable it
     -- ["<esc>"] = false,
   },
